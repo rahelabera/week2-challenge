@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Project-specific ignores
+Data/raw/
+Data/processed/
+*.csv
+venv/
+
 # C extensions
 *.so
 
